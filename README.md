@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NumPy, Pandas and Matplotlib**
 
-- 👨‍💻 All of my projects are available [in my repositories](in my repositories)
+- 👨‍💻 All of my projects are available in my repositories
 
 - 💬 Ask me about **Data analytics or full stack development**
 
